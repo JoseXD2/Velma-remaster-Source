@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="velma.png">
+	<!-- Created with Adobe Flash CS6 version 12.0.0.481 -->
+	<!-- http://www.adobe.com/products/flash.html -->
+	<SubTexture name="VelmaBaixo0000" x="3" y="3" width="279" height="584" frameX="-3" frameY="-12" frameWidth="282" frameHeight="596"/>
+	<SubTexture name="VelmaBaixo0001" x="3" y="3" width="279" height="584" frameX="-3" frameY="-12" frameWidth="282" frameHeight="596"/>
+	<SubTexture name="VelmaBaixo0002" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0003" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0004" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0005" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0006" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0007" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0008" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0009" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaBaixo0010" x="285" y="3" width="282" height="596"/>
+	<SubTexture name="VelmaCima0000" x="570" y="3" width="237" height="609" frameX="-4" frameY="0" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0001" x="570" y="3" width="237" height="609" frameX="-4" frameY="0" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0002" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0003" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0004" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0005" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0006" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0007" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0008" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0009" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaCima0010" x="810" y="3" width="241" height="604" frameX="0" frameY="-4" frameWidth="241" frameHeight="609"/>
+	<SubTexture name="VelmaDireita0000" x="1054" y="3" width="373" height="614" frameX="0" frameY="-6" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0001" x="1054" y="3" width="373" height="614" frameX="0" frameY="-6" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0002" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0003" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0004" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0005" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0006" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0007" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0008" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaDireita0009" x="1430" y="3" width="361" height="620" frameX="-6" frameY="0" frameWidth="373" frameHeight="620"/>
+	<SubTexture name="VelmaEsquerda0000" x="3" y="626" width="296" height="602" frameX="-5" frameY="-4" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0001" x="3" y="626" width="296" height="602" frameX="-5" frameY="-4" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0002" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0003" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0004" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0005" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0006" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0007" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0008" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0009" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaEsquerda0010" x="302" y="626" width="292" height="606" frameX="0" frameY="0" frameWidth="301" frameHeight="606"/>
+	<SubTexture name="VelmaIdle0000" x="597" y="626" width="249" height="602" frameX="-28" frameY="-22" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0001" x="849" y="626" width="256" height="604" frameX="-21" frameY="-21" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0002" x="1108" y="626" width="264" height="605" frameX="-13" frameY="-20" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0003" x="1375" y="626" width="262" height="609" frameX="-10" frameY="-16" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0004" x="1640" y="626" width="267" height="612" frameX="-4" frameY="-13" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0005" x="3" y="1241" width="268" height="618" frameX="-3" frameY="-7" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0006" x="274" y="1241" width="271" height="625" frameX="0" frameY="0" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0007" x="548" y="1241" width="271" height="622" frameX="0" frameY="-3" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0008" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0009" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0010" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0011" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0012" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+	<SubTexture name="VelmaIdle0013" x="822" y="1241" width="271" height="619" frameX="0" frameY="-6" frameWidth="277" frameHeight="625"/>
+</TextureAtlas>
